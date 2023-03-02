@@ -1,4 +1,4 @@
-# Wallet-Payment-Network
+# Wallet Payment Network
 
 Designed and built a banking system web application, which is designed for safe monetary exchanges between users for over 5000 students in our college 
 campus.
